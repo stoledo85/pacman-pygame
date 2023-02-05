@@ -9,7 +9,8 @@ packages = [{include = "pacman_pygame"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-pygame = "1.9.6"
+pygame = "^2.1.2"
+
 
 [tool.poetry.group.dev.dependencies]
 black = "^23.1.0"
